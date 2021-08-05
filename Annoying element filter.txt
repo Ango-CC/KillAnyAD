@@ -1,0 +1,80 @@
+m.baike.so.com###business-flow
+baidu.com###content_right
+baidu.com###s-hotsearch-wrapper
+zuowen.xuexiaodaquan.com##div.fhg_div:nth-child(5)
+baidu.com###s_side_wrapper
+baidu.com###s-top-loginbtn > div.guide-info-new.s-top-loginbtn-bottom
+m.baidu.com###header > div:last-child
+m.baidu.com###index-card > div.blank-frame:nth-child(6)
+cn.bing.com###hp_bottomCell
+new.qq.com###RIGHT
+2345.com###right
+2345.com###J_dynamic3
+2345.com###J_dynamic4
+2345.com##div.top_w:nth-child(4)
+2345.com###J_header
+2345.com###content
+2345.com###search-hot-word
+2345.com###searchXiala
+hao123.com###gameyixingTop > div.layout-main:nth-child(4)
+hao123.com###header > div.hotsearchCon:last-child
+hao123.com###topColumn
+hao123.com###notice
+hao123.com###search > form.g-ib.searchForm.form-hook:nth-child(4) > div.g-ib.textWrapper.shadow-hook.wrapper-hook:nth-child(2) > a.hotword.hotword-hook:nth-child(2)
+hao123.com###search > form.g-ib.searchForm.form-hook:nth-child(4) > div.g-ib.textWrapper.shadow-hook.wrapper-hook:nth-child(2) > div.suggest.suggest-search.g-bg11.g-br9:last-child
+hao.360.com###doc-bd
+hao.360.com###doc-ft
+hao.360.com###doc-top-ft
+hao.360.com###doc-top-hd
+hao.360.com###search-new-hotword-count
+hao.360.com###user-center
+hao.360.com###plane
+hao.360.com###suggest-container
+36l.com.cn###qingtiancmsbody
+36l.com.cn###qingtiancms_b_b1
+36l.com.cn###qingtiancms_b_b2
+36l.com.cn###Home_c_home
+36l.com.cn###wrap > div.container:first-child > div.youqingContent:nth-child(13)
+36l.com.cn###wrap > div.container:first-child > div.youqingContent:nth-child(16)
+36l.com.cn###qingtiancmsindex2
+36l.com.cn###wrap > div.container:first-child > div.header:first-child
+36l.com.cn###menu_tab
+36l.com.cn###classicsWrap > div.topbar:first-child
+36l.com.cn###content_top_ad_foot3
+36l.com.cn###sw
+36l.com.cn###baiduTopAdvWrap
+tbtool.cn###container_e4bf9ac_padding > div:nth-child(19)
+tbtool.cn###container_e4bf9ac_padding > div:nth-child(17)
+pan.g4560.cn###head-div > div.list-container
+pan.baidu.com###layoutAside > div.module-aside.DtJtsC > div.aside-absolute-container:last-child > div:nth-child(2) > div.wp-side-options.g-clearfix
+pan.baidu.com###layoutHeader > div.module-header > div.module-header-wrapper > dl.xtJbHcb > dd.vyQHNyb:nth-child(2) > span.cMEMEF:nth-child(3)
+pan.baidu.com###layoutHeader > div.module-header > div.module-header-wrapper > dl.xtJbHcb > dd.CDaavKb:nth-child(3) > a.icon.icon-theme.app-theme.app-icon:nth-child(6)
+pan.baidu.com###layoutHeader > div.module-header > div.module-header-wrapper > dl.xtJbHcb > dd.CDaavKb:nth-child(3) > span:nth-child(7)
+pan.baidu.com##div.nd-main-layout:nth-child(2) > div:first-child > div.wp-disk-header:first-child > div.wp-disk-header__right.clearfix:last-child > a.wp-disk-header__vip-btn-wrapper.wp-disk-header__right-item:nth-child(3)
+pan.baidu.com##div.nd-main-layout:nth-child(2) > div.nd-main-layout__wrapper:nth-child(2) > div.wp-aside-nav:first-child > div.wp-aside-nav__main:first-child > div.wp-aside-nav__main-bottom:last-child > a.wp-aside-nav__main-item:nth-child(2)
+tieba.baidu.com##div.wrap1:nth-child(6) > div.wrap2 > div.page-container:nth-child(2) > div.main-sec.clearfix:last-child > div.content-sec.clearfix:nth-child(3) > div.right-sec.clearfix:last-child > div.r-right-sec:last-child
+baike.so.com###main > div.entry-plus.wrap:last-child
+baike.so.com###main > div.entry-box.wrap:nth-child(3) > div.boxwrap.cl.js-entry-boxwrap > div.boxinner-r-bg:nth-child(2)
+tieba.baidu.com##div.main-page-wrap:nth-child(2) > div.app-view.transition-fade > div.fixed-nav-bar.nav-bar-wrapper:last-child
+tieba.baidu.com##div.main-page-wrap:nth-child(2) > div.app-view.transition-fade > div.nav-bar-wrapper:first-child
+tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > div.nav-bar-wrapper:first-child
+tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > div.fixed-nav-bar.nav-bar-wrapper:last-child
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.post-cut-guide:nth-child(10)
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.fixed-nav-bar.nav-bar-wrapper:last-child
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div:nth-child(5)
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.banner-wrapper:nth-child(8)
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.nav-bar-wrapper:first-child
+tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.ertiao-wrap:nth-child(11)
+pan.baidu.com###app > div.ifram > div.sliderMenu.pan-nav:first-child > div.panel > div.download-app:nth-child(3)
+pan.baidu.com###app > div.ifram > div.sliderMenu.pan-nav:first-child > div.panel > ul.nav:nth-child(2) > li:nth-child(3)
+pan.baidu.com###app > div.ifram > div.sliderMenu.pan-nav:first-child > div.panel > ul.nav:nth-child(2) > li.cert-wrap:nth-child(2)
+zhidao.baidu.com###w-1 > div.question-answer-btn-wraper:first-child > div.question-answer-hasbetter.question-answer-hasbetter-single:first-child > span:last-child > span.icon-reward
+zhidao.baidu.com###wgt-shlxi610b71-asp
+zhidao.baidu.com###wgt-udtks610b71-youx
+zhidao.baidu.com###srsby610b71
+adguard.com###app > div.header:first-child > div.header__in:last-child > div.header__left:first-child > div.header__nav:last-child > div.header__nav-in > div.header__item-wr.header__item-wr--purchase:nth-child(6)
+fsylr.com###page-content > div.container > div.row > div.sidebar.col-xs-12.col-sm-4.col-md-4:last-child > div.theiaStickySidebar > div.widget.widget_text:nth-child(4)
+fsylr.com###page-content > div.container > div.row > div.sidebar.col-xs-12.col-sm-4.col-md-4:last-child > div.theiaStickySidebar > div.widget.widget_text:nth-child(5)
+fsylr.com###page-content > div.container > div.row > div.sidebar.col-xs-12.col-sm-4.col-md-4:last-child > div.theiaStickySidebar > div.widget.widget_text:nth-child(7)
+fsylr.com###page-content > div.container > div.row > div.sidebar.col-xs-12.col-sm-4.col-md-4:last-child > div.theiaStickySidebar > div.widget.widget_text:nth-child(3)
+fsylr.com###page-content > div.container > div.row > div.sidebar.col-xs-12.col-sm-4.col-md-4:last-child > div.theiaStickySidebar > div.widget.widget_text:first-child
